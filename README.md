@@ -1,3 +1,1 @@
-
-<h1 align="center">Hi 👋, I'm Riwong Sherchan</h1>
-<h3 align="center">Linux System Administrator</h3>
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=riwongsherchan&theme=neon&role=System%20Administrator" width="100%" alt="riwongsherchan profile banner" />
